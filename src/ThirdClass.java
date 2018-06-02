@@ -16,11 +16,6 @@ public class ThirdClass {
 		System.out.println("Changes made in branch 7");
 	}
 	
-	//i created this method after migration to GIT
-	public void welcomeGit(){
-		System.out.println("Now I am in git");
-	}
-	
 	
 	
 	
